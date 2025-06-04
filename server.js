@@ -1,7 +1,7 @@
 /*
     Whatsapp API Gateway
     @willygoid
-    Ngawi, 4 Juni 2025
+    Ngawi, 4 June 2025
 */
 
 import express from 'express';
