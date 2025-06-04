@@ -20,3 +20,13 @@ npm install
 ```
 node server.js
 ```
+
+### Usage
+```
+1. Run the server.js
+2. Open The Browser
+3. Goto http://localhost:3000
+4. Open Whatsapp in your phone > Goto Setting > Linked Device
+    > Add Device > Scan the QR that have generated from step 3.
+5. Youre ready to go to use your API server
+```
